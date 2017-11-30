@@ -12,15 +12,6 @@
 \stopmode
 $if(mainlang)$
 \mainlanguage[$mainlang$]
-% SUPPORT for Chinese
-\usepackage[boldfont,slantfont,CJKsetspaces,CJKchecksingle]{xeCJK}
-\usepackage{fontspec,xltxtra,xunicode}
-\defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-
-\punctstyle{quanjiao}
-\setCJKmainfont{文泉驿微米黑} 
-\setCJKsansfont{KaiTi}
-\setCJKmonofont{SimSun}
 $endif$
 
 \setupcolor[hex]
