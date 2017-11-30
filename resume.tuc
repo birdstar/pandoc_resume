@@ -147,10 +147,25 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=6,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=3,
+   ["internal"]=2,
+   ["realpage"]=1,
+   ["reference"]="个人信息",
+   ["section"]=2,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="个人信息",
+  },
+ },
+ {
+  ["metadata"]=4,
+  ["numberdata"]=8,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=4,
    ["realpage"]=1,
    ["reference"]="教育背景",
-   ["section"]=2,
+   ["section"]=3,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -158,42 +173,27 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=7,
+  ["metadata"]=9,
   ["references"]={
-   ["internal"]=4,
+   ["internal"]=5,
    ["order"]=1,
    ["realpage"]=1,
-   ["section"]=2,
+   ["section"]=3,
   },
   ["titledata"]={
    ["title"]="2010-2014 (expected)",
   },
  },
  {
-  ["metadata"]=7,
+  ["metadata"]=9,
   ["references"]={
-   ["internal"]=5,
+   ["internal"]=6,
    ["order"]=2,
    ["realpage"]=1,
-   ["section"]=2,
-  },
-  ["titledata"]={
-   ["title"]="2007-2010",
-  },
- },
- {
-  ["metadata"]=4,
-  ["numberdata"]=9,
-  ["references"]={
-   ["block"]="bodypart",
-   ["internal"]=6,
-   ["realpage"]=1,
-   ["reference"]="experience",
    ["section"]=3,
   },
   ["titledata"]={
-   ["label"]="subsection",
-   ["title"]="Experience",
+   ["title"]="2007-2010",
   },
  },
  {
@@ -203,48 +203,12 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=7,
    ["realpage"]=1,
-   ["reference"]="technical-experience",
+   ["reference"]="experience",
    ["section"]=4,
   },
   ["titledata"]={
    ["label"]="subsection",
-   ["title"]="Technical Experience",
-  },
- },
- {
-  ["metadata"]=7,
-  ["references"]={
-   ["internal"]=8,
-   ["order"]=3,
-   ["realpage"]=1,
-   ["section"]=4,
-  },
-  ["titledata"]={
-   ["title"]="My Cool Side Project",
-  },
- },
- {
-  ["metadata"]=7,
-  ["references"]={
-   ["internal"]=9,
-   ["order"]=4,
-   ["realpage"]=1,
-   ["section"]=4,
-  },
-  ["titledata"]={
-   ["title"]="Open Source",
-  },
- },
- {
-  ["metadata"]=7,
-  ["references"]={
-   ["internal"]=10,
-   ["order"]=5,
-   ["realpage"]=1,
-   ["section"]=4,
-  },
-  ["titledata"]={
-   ["title"]="Programming Languages",
+   ["title"]="Experience",
   },
  },
  {
@@ -252,10 +216,61 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=13,
   ["references"]={
    ["block"]="bodypart",
+   ["internal"]=8,
+   ["realpage"]=1,
+   ["reference"]="technical-experience",
+   ["section"]=5,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Technical Experience",
+  },
+ },
+ {
+  ["metadata"]=9,
+  ["references"]={
+   ["internal"]=9,
+   ["order"]=3,
+   ["realpage"]=1,
+   ["section"]=5,
+  },
+  ["titledata"]={
+   ["title"]="My Cool Side Project",
+  },
+ },
+ {
+  ["metadata"]=9,
+  ["references"]={
+   ["internal"]=10,
+   ["order"]=4,
+   ["realpage"]=1,
+   ["section"]=5,
+  },
+  ["titledata"]={
+   ["title"]="Open Source",
+  },
+ },
+ {
+  ["metadata"]=9,
+  ["references"]={
    ["internal"]=11,
+   ["order"]=5,
+   ["realpage"]=2,
+   ["section"]=5,
+  },
+  ["titledata"]={
+   ["title"]="Programming Languages",
+  },
+ },
+ {
+  ["metadata"]=4,
+  ["numberdata"]=15,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=12,
    ["realpage"]=2,
    ["reference"]="extra-section-call-it-whatever-you-want",
-   ["section"]=5,
+   ["section"]=6,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -271,15 +286,15 @@ utilitydata.structures.pages.collected={
  {
   ["block"]="bodypart",
   ["number"]=1,
-  ["numberdata"]=14,
-  ["prefixdata"]=15,
+  ["numberdata"]=16,
+  ["prefixdata"]=17,
   ["state"]="start",
  },
  {
   ["block"]="bodypart",
   ["number"]=2,
-  ["numberdata"]=14,
-  ["prefixdata"]=15,
+  ["numberdata"]=16,
+  ["prefixdata"]=17,
   ["state"]="start",
  },
 }
@@ -377,21 +392,21 @@ utilitydata.job.packed={
    ["separatorset"]="default",
    ["set"]="all",
   },
-  {
-   ["catcodes"]=8,
-   ["kind"]="construction",
-   ["level"]=4,
-   ["name"]="description",
-  },
   { 0, 0, 1, 2 },
   {
    ["block"]="bodypart",
    ["conversionset"]="default",
    ["hidenumber"]=true,
    ["language"]="en",
-   ["numbers"]=8,
+   ["numbers"]=7,
    ["separatorset"]="default",
    ["set"]="all",
+  },
+  {
+   ["catcodes"]=8,
+   ["kind"]="construction",
+   ["level"]=4,
+   ["name"]="description",
   },
   { 0, 0, 1, 3 },
   {
@@ -410,6 +425,16 @@ utilitydata.job.packed={
    ["hidenumber"]=true,
    ["language"]="en",
    ["numbers"]=12,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  { 0, 0, 1, 5 },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=14,
    ["separatorset"]="default",
    ["set"]="all",
   },
