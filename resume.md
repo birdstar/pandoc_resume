@@ -1,15 +1,16 @@
-Johnny Coder
+王鹏
 ============
 
-----
+-------------------     ----------------------------
+邮箱：                        birdstar@163.com
+手机号：	                          15810292708
+出生年月：                           1982/9/29
+学历：					工学硕士
+籍贯：					山东青岛
+居住地：					北京市海淀区
+-------------------     ----------------------------
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-
-----
-
-Education
+教育背景
 ---------
 
 2010-2014 (expected)
@@ -93,8 +94,3 @@ Extra Section, Call it Whatever You Want
 * Random tidbit
 
 * Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry

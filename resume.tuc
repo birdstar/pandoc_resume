@@ -47,6 +47,7 @@ if not utilitydata.job then utilitydata.job = { } end
 if not utilitydata.job.pagestates then utilitydata.job.pagestates = { } end
 
 utilitydata.job.pagestates.collected={
+ ["float"]={ 1 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end
@@ -133,12 +134,12 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=1,
    ["realpage"]=1,
-   ["reference"]="johnny-coder",
+   ["reference"]="王鹏",
    ["section"]=1,
   },
   ["titledata"]={
    ["label"]="section",
-   ["title"]="Johnny Coder",
+   ["title"]="王鹏",
   },
  },
  {
@@ -146,20 +147,20 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=6,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=2,
+   ["internal"]=3,
    ["realpage"]=1,
-   ["reference"]="education",
+   ["reference"]="教育背景",
    ["section"]=2,
   },
   ["titledata"]={
    ["label"]="subsection",
-   ["title"]="Education",
+   ["title"]="教育背景",
   },
  },
  {
   ["metadata"]=7,
   ["references"]={
-   ["internal"]=3,
+   ["internal"]=4,
    ["order"]=1,
    ["realpage"]=1,
    ["section"]=2,
@@ -171,7 +172,7 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=7,
   ["references"]={
-   ["internal"]=4,
+   ["internal"]=5,
    ["order"]=2,
    ["realpage"]=1,
    ["section"]=2,
@@ -185,7 +186,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=9,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=5,
+   ["internal"]=6,
    ["realpage"]=1,
    ["reference"]="experience",
    ["section"]=3,
@@ -200,7 +201,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=11,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=6,
+   ["internal"]=7,
    ["realpage"]=1,
    ["reference"]="technical-experience",
    ["section"]=4,
@@ -213,7 +214,7 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=7,
   ["references"]={
-   ["internal"]=7,
+   ["internal"]=8,
    ["order"]=3,
    ["realpage"]=1,
    ["section"]=4,
@@ -225,7 +226,7 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=7,
   ["references"]={
-   ["internal"]=8,
+   ["internal"]=9,
    ["order"]=4,
    ["realpage"]=1,
    ["section"]=4,
@@ -237,7 +238,7 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=7,
   ["references"]={
-   ["internal"]=9,
+   ["internal"]=10,
    ["order"]=5,
    ["realpage"]=1,
    ["section"]=4,
@@ -251,7 +252,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=13,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=10,
+   ["internal"]=11,
    ["realpage"]=2,
    ["reference"]="extra-section-call-it-whatever-you-want",
    ["section"]=5,
