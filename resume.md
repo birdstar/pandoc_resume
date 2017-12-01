@@ -56,7 +56,9 @@
 ----
 
 **2017.6-至今: IBM Machine Learning for zOS**
+
 为数据科学家提供的一套基于SparkML的机器学习开发平台，包括数据导入，模型训练，部署，预测。
+
 https://www.ibm.com/us-en/marketplace/machine-learning-for-zos
 
 * 个人角色和职责：技术负责人之一，主要看在线编辑器，运行时管理和集成，另外还有整个产品基于k8s的整体部署。
@@ -64,13 +66,15 @@ https://www.ibm.com/us-en/marketplace/machine-learning-for-zos
 * 技术领域：Jupyter, Livy, KernelGateway, Toree, Spark，kubernetes。
 
 **2016.6-2017.6: 云平台容器服务的构建**
-基于k8s为云平台上的服务提供容器化部署解决方案
+
+基于k8s为云平台上的服务提供容器化部署解决方案。
 
 * 个人角色和职责：技术负责人之一，从零开始搭建整个系统，重点负责存储分系统的设计实现部署，性能测试调优等。
 
 * 技术领域：kubernetes，nfs，iscsi，glusterfs。
 
 **2016.2-2016.6: 智能自动化运维机器人构建**
+
 基于slack bot和监控报警系统，利用watson nlp, 自动处理原因明确的报警,对不明确的推荐解决方案。
 
 * 个人角色和职责：技术负责人，全面负责设计实现部署上线。
@@ -79,6 +83,7 @@ https://www.ibm.com/us-en/marketplace/machine-learning-for-zos
 
 
 **2015.4-2016.2: 云平台监控报警系统构建 & 数据分析部云服务的运维（devops）**
+
 提供对主机，服务，网络进行端到端的监控。
 
 * 个人角色和职责：技术负责人之一，主要负责开发服务uptime和端到端监控，同时轮值运维我们部门（数据分析部）的云服务。。
@@ -86,6 +91,7 @@ https://www.ibm.com/us-en/marketplace/machine-learning-for-zos
 * 技术领域：collectd， graphit， granfana， uptime， pagerduty， slack
 
 **2011.12-2015.4: DB2开发工具Data Studio产品的开发**
+
 Data Studio是基于Eclipse的DB2的管理和开发工具，和DB2数据库一起发布。
 
 * 个人角色和职责：核心开发人员，各个模块都有所涉及，后期成为分模块的技术负责人，主要负责例程调试器（Routine Debugger）的设计和开发。
@@ -93,6 +99,7 @@ Data Studio是基于Eclipse的DB2的管理和开发工具，和DB2数据库一�
 * 技术领域：DB2, OSGi, Eclipse plugin
 
 **2008.5-2011.12: DB2性能监控工具Optim Performance Manager（OPM）产品的开发**
+
 OPM是一个基于Web的数据库性能监控软件，监控DB2的内存，CPU，死锁，低效SQL等等。
 
 * 个人角色和职责：开发人员，前期主要做前台UI开发，后期前后台都做，减少沟通成本。
@@ -100,69 +107,25 @@ OPM是一个基于Web的数据库性能监控软件，监控DB2的内存，CPU�
 * 技术领域：DB2, Flex，Cairngorm，Spring
 
 
-**Your Most Recent Work Experience:**
+专业能力
+----
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* 技术：
+    * 工作9年中，基本上各种编程语言都有所涉及，根据项目需要涉及到什么学什么。
+java用的时间最长，其他的像go，nodejs, python, shell, scala, javascript, c++在不同的阶段使用过。
+    * 关系数据库DB2用的最多，nosql方面主要用cloudant，mongodb也用过。
+    * 大数据主要使用过Spark，HDFS等，但是没有做深入的研究。
+    * 容器化，主要是对kubernetes有一些研究，读了些相关代码，根据我们自己的项目需要写过一些定制化的存储插件。
+    * 机器学习，目前这个组主要是为数据科学家提供开发平台，不涉及到具体的使用场景，根据自己的兴趣学习中。
 
-* First item
+* 英语：工作语言，阅读英文文档，沟通基本无障碍。
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+获奖及其他
+-----
+* 2016 Rising Star Award in IBM cloud data server organization.
+* 2014 IBM IM Org Best Developer Award
+* 2013 IBM CDL Technical Contest First Place Award(with Eric)
+* Flex 应用内存泄露的分析与诊断 https://www.ibm.com/developerworks/cn/web/1010_wangpeng_flexmem/index.html
+* 利用 Optim Development Studio 快速开发以数据为中心的 Web 服务 https://www.ibm.com/developerworks/cn/data/library/techarticle/dm-1106wangp/index.html
+* 使用 IBM DB2 Merge Backup 加速 DB2 数据库恢复 https://www.ibm.com/developerworks/cn/data/library/techarticle/dm-1109wangp/index.html
