@@ -123,9 +123,9 @@ java用的时间最长，其他的像go，nodejs, python, shell, scala, javascri
 
 获奖及其他
 -----
-* 2016 Rising Star Award in IBM cloud data server organization.
-* 2014 IBM IM Org Best Developer Award
-* 2013 IBM CDL Technical Contest First Place Award(with Eric)
+* 2016 Rising Star Award in IBM cloud data server organization.(3/500)
+* 2014 IBM IM Org Best Developer Award.(1/200)
+* 2013 IBM CDL Technical Contest First Place Award(co-auther)(1/3000)
 * Flex 应用内存泄露的分析与诊断 https://www.ibm.com/developerworks/cn/web/1010_wangpeng_flexmem/index.html
 * 利用 Optim Development Studio 快速开发以数据为中心的 Web 服务 https://www.ibm.com/developerworks/cn/data/library/techarticle/dm-1106wangp/index.html
 * 使用 IBM DB2 Merge Backup 加速 DB2 数据库恢复 https://www.ibm.com/developerworks/cn/data/library/techarticle/dm-1109wangp/index.html
