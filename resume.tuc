@@ -28,10 +28,6 @@ utilitydata.job.passes.collected={
  ["itemgroup:itemize:1"]={
   { 4, 0 },
  },
- ["itemgroup:itemize:10"]={
-  { 3, 0 },
-  { 3, 0 },
- },
  ["itemgroup:itemize:2"]={
   { 2, 0 },
  },
@@ -52,9 +48,10 @@ utilitydata.job.passes.collected={
  },
  ["itemgroup:itemize:8"]={
   { 2, 0 },
+  { 5, 0 },
  },
  ["itemgroup:itemize:9"]={
-  { 2, 0 },
+  { 6, 0 },
  },
 }
 
@@ -120,8 +117,8 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 4, 2, 2, 2, 2, 2, 2, 2, 2, 3 },
-  { 0, 3, 0, 0 },
+  { 0, 4, 2, 2, 2, 2, 2, 2, 2, 6 },
+  { 0, 5, 0, 0, 0, 0, 0, 0, 0, 0 },
  },
  ["linenote"]={
   { 0 },
@@ -130,7 +127,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["realpage"]={
-  { 3 },
+  { 2 },
  },
  ["subpage"]={
   { 0 },
@@ -139,7 +136,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["userpage"]={
-  { 3 },
+  { 2 },
  },
 }
 
@@ -325,48 +322,12 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=14,
    ["realpage"]=2,
-   ["reference"]="technical-experience",
+   ["reference"]="专业能力",
    ["section"]=6,
   },
   ["titledata"]={
    ["label"]="subsection",
-   ["title"]="Technical Experience",
-  },
- },
- {
-  ["metadata"]=7,
-  ["references"]={
-   ["internal"]=15,
-   ["order"]=9,
-   ["realpage"]=2,
-   ["section"]=6,
-  },
-  ["titledata"]={
-   ["title"]="My Cool Side Project",
-  },
- },
- {
-  ["metadata"]=7,
-  ["references"]={
-   ["internal"]=16,
-   ["order"]=10,
-   ["realpage"]=2,
-   ["section"]=6,
-  },
-  ["titledata"]={
-   ["title"]="Open Source",
-  },
- },
- {
-  ["metadata"]=7,
-  ["references"]={
-   ["internal"]=17,
-   ["order"]=11,
-   ["realpage"]=2,
-   ["section"]=6,
-  },
-  ["titledata"]={
-   ["title"]="Programming Languages",
+   ["title"]="专业能力",
   },
  },
  {
@@ -374,14 +335,14 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=17,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=18,
-   ["realpage"]=3,
-   ["reference"]="extra-section-call-it-whatever-you-want",
+   ["internal"]=15,
+   ["realpage"]=2,
+   ["reference"]="获奖及其他",
    ["section"]=7,
   },
   ["titledata"]={
    ["label"]="subsection",
-   ["title"]="Extra Section, Call it Whatever You Want",
+   ["title"]="获奖及其他",
   },
  },
 }
@@ -404,13 +365,6 @@ utilitydata.structures.pages.collected={
   ["prefixdata"]=19,
   ["state"]="start",
  },
- {
-  ["block"]="bodypart",
-  ["number"]=3,
-  ["numberdata"]=18,
-  ["prefixdata"]=19,
-  ["state"]="start",
- },
 }
 
 if not utilitydata.structures then utilitydata.structures = { } end
@@ -423,7 +377,6 @@ if not utilitydata.structures then utilitydata.structures = { } end
 if not utilitydata.structures.references then utilitydata.structures.references = { } end
 
 utilitydata.structures.references.referred={
- { 2, 1 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end
