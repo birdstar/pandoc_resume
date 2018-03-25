@@ -28,24 +28,18 @@ utilitydata.job.passes.collected={
  ["itemgroup:itemize:1"]={
   { 4, 0 },
  },
- ["itemgroup:itemize:10"]={
-  { 2, 0 },
-  { 4, 0 },
- },
- ["itemgroup:itemize:11"]={
-  { 6, 0 },
- },
  ["itemgroup:itemize:2"]={
   { 2, 0 },
  },
  ["itemgroup:itemize:3"]={
-  { 2, 0 },
- },
- ["itemgroup:itemize:4"]={
+  { 3, 0 },
   { 5, 0 },
  },
+ ["itemgroup:itemize:4"]={
+  { 2, 0 },
+ },
  ["itemgroup:itemize:5"]={
-  { 1, 0 },
+  { 2, 0 },
  },
  ["itemgroup:itemize:6"]={
   { 2, 0 },
@@ -55,9 +49,10 @@ utilitydata.job.passes.collected={
  },
  ["itemgroup:itemize:8"]={
   { 2, 0 },
+  { 4, 0 },
  },
  ["itemgroup:itemize:9"]={
-  { 2, 0 },
+  { 6, 0 },
  },
 }
 
@@ -123,8 +118,8 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 4, 2, 2, 5, 1, 2, 2, 2, 2, 2, 6 },
-  { 0, 4, 0, 0, 0, 0, 0, 0, 0, 0 },
+  { 0, 4, 2, 3, 2, 2, 2, 2, 2, 6 },
+  { 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0 },
  },
  ["linenote"]={
   { 0 },
