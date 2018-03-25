@@ -48,7 +48,7 @@ utilitydata.job.passes.collected={
  },
  ["itemgroup:itemize:8"]={
   { 2, 0 },
-  { 5, 0 },
+  { 4, 0 },
  },
  ["itemgroup:itemize:9"]={
   { 6, 0 },
@@ -118,7 +118,7 @@ utilitydata.structures.counters.collected={
  },
  ["itemgroup:itemize"]={
   { 0, 4, 2, 2, 2, 2, 2, 2, 2, 6 },
-  { 0, 5, 0, 0, 0, 0, 0, 0, 0, 0 },
+  { 0, 4, 0, 0, 0, 0, 0, 0, 0, 0 },
  },
  ["linenote"]={
   { 0 },
