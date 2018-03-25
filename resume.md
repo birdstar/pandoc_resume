@@ -61,7 +61,7 @@
 
 https://www.ibm.com/us-en/marketplace/machine-learning-for-zos
 
-* 个人角色和职责：技术负责人之一，主要看在线编辑器，运行时管理和集成，另外还有整个产品基于k8s的整体部署。
+* 个人角色和职责：核心开发人员，主要看在线编辑器，运行时管理和集成，另外还有整个产品基于k8s的整体部署。
 
 * 技术领域：Jupyter, Livy, KernelGateway, Toree, Spark，kubernetes。
 
@@ -69,7 +69,7 @@ https://www.ibm.com/us-en/marketplace/machine-learning-for-zos
 
 基于k8s为云平台上的服务提供容器化部署解决方案。
 
-* 个人角色和职责：技术负责人之一，从零开始搭建整个系统，重点负责存储分系统的设计实现部署，性能测试调优等。
+* 个人角色和职责：核心开发人员，从零开始搭建整个系统，重点负责存储分系统的设计实现部署，性能测试调优等。
 
 * 技术领域：kubernetes，nfs，iscsi，glusterfs。
 
@@ -79,14 +79,14 @@ https://www.ibm.com/us-en/marketplace/machine-learning-for-zos
 
 * 个人角色和职责：技术负责人，全面负责设计实现部署上线。
 
-* 技术领域：kafka，watson，slack api，ansible
+* 技术领域：watson，slack api，kafka，ansible
 
 
 **2015.4-2016.2: 云平台监控报警系统构建 & 数据分析部云服务的运维（devops）**
 
 提供对主机，服务，网络进行端到端的监控。
 
-* 个人角色和职责：技术负责人之一，主要负责开发服务uptime和端到端监控，同时轮值运维我们部门（数据分析部）的云服务。。
+* 个人角色和职责：核心开发人员，主要负责开发服务uptime和端到端监控，同时轮值运维我们部门（数据分析部）的云服务。。
 
 * 技术领域：collectd， graphit， granfana， uptime， pagerduty， slack
 
