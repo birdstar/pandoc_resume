@@ -112,9 +112,8 @@ OPM是一个基于Web的数据库性能监控软件，监控DB2的内存，CPU�
 
 * 技术：
     * 工作9年中，基本上各种编程语言都有所涉及，根据项目需要涉及到什么学什么。
-java用的时间最长，比较精通，其他的像go，nodejs, python, shell, scala, javascript, c++在不同的阶段使用过。
+java用的时间最长，比较精通，其他的像go，nodejs, python, scala, javascript, c++在不同的阶段使用过。
     * 关系数据库DB2用的最多，nosql方面主要用cloudant，mongodb也用过。
-    * 大数据主要使用过Spark，HDFS等。
     * 容器化，主要研究过kubernetes，读相关代码，根据自己的项目需要写过定制化的存储插件。
     * 机器学习，目前所在工作组主要是为数据科学家提供开发平台，不涉及到具体的使用场景。
 
