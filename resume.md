@@ -55,7 +55,7 @@
 项目经验
 ----
 
-**2017.6-至今: IBM Machine Learning for zOS**
+**2017.6-至今: IBM Machine Learning**
 
 为数据科学家提供的一套基于SparkML的机器学习开发平台，包括数据导入，模型训练，部署，预测。
 
@@ -65,11 +65,18 @@ https://www.ibm.com/us-en/marketplace/machine-learning-for-zos
 
 * 技术领域：Jupyter, Livy, KernelGateway, Toree, Spark，kubernetes。
 
-**2016.6-2017.6: 云平台容器服务的构建**
+**2016.6-2017.6: 基于k8s的云平台容器服务的构建**
 
-基于k8s为云平台上的服务提供容器化部署解决方案。
+基于k8s为bluemix平台上的服务提供容器化部署解决方案。
 
 * 个人角色和职责：核心开发人员，从零开始搭建整个系统，重点负责存储分系统的设计实现部署，性能测试调优等。
+
+* 本人主要贡献的领域：
+  1. 为托管在其中的服务提供3种不同种类的存储：本地存储，共享存储，portable存储。
+  2. 存储的自动化provision，部署，回收。
+  3. 存储系统监控指标设计实现。
+  4. 对k8s的定制化：自定义存储控件bigFile plugin实现，hostPath安全性加强，nfs/iSCSI控件优化等。
+  5. 存储系统测试和调优。
 
 * 技术领域：kubernetes，nfs，iscsi，glusterfs。
 
